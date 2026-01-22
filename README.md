@@ -1,4 +1,4 @@
-# BUDS – Community Learning and Volunteer Verification Platform
+# VCON – Community Learning and Volunteer Verification Platform
 
 ## Project Overview
 
