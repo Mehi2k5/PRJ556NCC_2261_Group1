@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-BUDS is a free, web-based learning exchange platform that connects volunteer educators, learners, and universities in a single, unified system. The platform enables volunteers to teach or tutor, provides learners with high-quality educational support at no cost, and allows universities to reliably verify and recognize volunteer hours.
+VCON(Volunteers Connecting Networks) is a free, web-based learning exchange platform that connects volunteer educators, learners, and universities in a single, unified system. The platform enables volunteers to teach or tutor, provides learners with high-quality educational support at no cost, and allows universities to reliably verify and recognize volunteer hours.
 
 ## Problem Statement
 
